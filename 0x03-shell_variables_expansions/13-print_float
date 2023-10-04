@@ -1,2 +1,2 @@
 #!/bin/bash
-printf '%.2f\n' $NUM`:Wq
+printf '%.2f\n' $NUM | sort
